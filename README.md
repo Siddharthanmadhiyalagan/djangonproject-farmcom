@@ -1,2 +1,2 @@
 # djangonproject farmcom
- my project is helpful foe farmers and it acts as a intermediate b/w formers and peoples
+ my project is helpful for farmers and it acts as a intermediate b/w farmers and peoples
